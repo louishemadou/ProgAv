@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/isotopo.dir/isotopo.cpp.o CMakeFiles/isotopo.dir/town.cpp.o CMakeFiles/isotopo.dir/point2d.cpp.o CMakeFiles/isotopo.dir/utility.cpp.o  -o isotopo 

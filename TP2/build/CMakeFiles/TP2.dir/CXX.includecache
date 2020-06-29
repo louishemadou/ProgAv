@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/zelire/Documents/IMI/ProgAv/TP2/eleve.cpp
+eleve.h
+/home/zelire/Documents/IMI/ProgAv/TP2/eleve.h
+iostream
+-
+vector
+-
+cstdlib
+-
+ctime
+-
+
+/home/zelire/Documents/IMI/ProgAv/TP2/eleve.h
+iostream
+-
+
+/home/zelire/Documents/IMI/ProgAv/TP2/main.cpp
+eleve.h
+/home/zelire/Documents/IMI/ProgAv/TP2/eleve.h
+iostream
+-
+vector
+-
+cstdlib
+-
+algorithm
+-
+

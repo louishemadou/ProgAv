@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/zelire/Documents/IMI/ProgAv/TP3/fonction.cpp
+iostream
+-
+cmath
+-
+cassert
+-
+fonction.h
+/home/zelire/Documents/IMI/ProgAv/TP3/fonction.h
+
+/home/zelire/Documents/IMI/ProgAv/TP3/fonction.h
+string
+-
+
+/home/zelire/Documents/IMI/ProgAv/TP3/main.cpp
+iostream
+-
+cmath
+-
+fonction.h
+/home/zelire/Documents/IMI/ProgAv/TP3/fonction.h
+

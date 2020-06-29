@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/zelire/Documents/IMI/ProgAv/TP4/Tree/Tree.h
+string
+-
+vector
+-
+iostream
+-
+
+/home/zelire/Documents/IMI/ProgAv/TP4/Tree/main.cpp
+iostream
+-
+Tree.h
+/home/zelire/Documents/IMI/ProgAv/TP4/Tree/Tree.h
+

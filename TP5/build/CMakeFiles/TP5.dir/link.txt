@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/TP5.dir/main.cpp.o CMakeFiles/TP5.dir/levenshtein.cpp.o CMakeFiles/TP5.dir/damerau.cpp.o  -o TP5 

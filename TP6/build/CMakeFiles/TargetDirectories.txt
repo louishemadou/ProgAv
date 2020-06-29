@@ -1,0 +1,4 @@
+/home/zelire/Documents/IMI/ProgAv/TP6/build/CMakeFiles/rebuild_cache.dir
+/home/zelire/Documents/IMI/ProgAv/TP6/build/CMakeFiles/edit_cache.dir
+/home/zelire/Documents/IMI/ProgAv/TP6/build/CMakeFiles/test_quadtree.dir
+/home/zelire/Documents/IMI/ProgAv/TP6/build/CMakeFiles/zipimage.dir

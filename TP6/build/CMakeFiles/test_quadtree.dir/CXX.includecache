@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/zelire/Documents/IMI/ProgAv/TP6/quadtree/example.cpp
+iostream
+-
+quadtree.h
+/home/zelire/Documents/IMI/ProgAv/TP6/quadtree/quadtree.h
+
+/home/zelire/Documents/IMI/ProgAv/TP6/quadtree/quadtree.h
+string
+-
+iostream
+-
+stdexcept
+-
+sstream
+-
+
